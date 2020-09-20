@@ -1,2 +1,4 @@
 # The-Pig-Game
-A short games made using JavaScript, it is a great to make your time pass and recreation.
+A short game made using JavaScript language, it is a great game to time pass and recreation.
+
+*This is the the first release of this game.
